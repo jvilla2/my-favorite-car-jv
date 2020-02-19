@@ -1,0 +1,13 @@
+{
+	"manufacturer": "Cheveorlet",
+	"category": "muscle",
+	"car_name": "camaro",
+	"specs": [{
+		"year": "1969",
+		"trim": "SS",
+		"engine": "V8-396",
+		"transmission": "4-speed manual",
+		"horse_power": "375",
+		"torque": "415"
+	}]
+}
